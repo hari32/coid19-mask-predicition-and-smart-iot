@@ -1,0 +1,9 @@
+tensorflow>=2.4.1
+imutils==0.5.3
+numpy==1.18.2
+opencv-python==4.2.0.*
+matplotlib==3.2.1
+scipy==1.4.1
+
+for dataset :
+https://drive.google.com/drive/folders/17HgTzLqtCiLz6S42ydrIR-1wSzXsgXzQ?usp=sharing
